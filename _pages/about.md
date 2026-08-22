@@ -28,19 +28,14 @@ My research primarily focuses on **Development Economics** and **Urban Economics
 
 
 <style>
-  /* 正文使用清晰现代的 Inter 字体 */
-  body, p, li {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  /* 全站使用 Georgia 经典衬线体 */
+  body, p, li, h1, h2, h3, h4, .navbar-brand, .post-title {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
   }
 
-  /* 标题保持优雅大气的 Merriweather 衬线体 */
-  h1, h2, h3, h4, .navbar-brand, .post-title {
-    font-family: 'Merriweather', Georgia, serif !important;
-  }
-
-  /* 强效突出正文加粗项 */
+  /* 修复暗黑模式加粗问题：继承当前模式的文字颜色，并大幅加粗 */
   strong, b {
-    font-weight: 700 !important;
-    color: #000000 !important; /* 纯黑高对比度 */
+    font-weight: 900 !important;
+    color: inherit !important; /* 自动适配深色/浅色模式 */
   }
 </style>
