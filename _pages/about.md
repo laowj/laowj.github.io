@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # 设置为 true 可变成圆形头像
 
-selected_papers: true # 自动展示 papers.bib 中 selected=true 的论文
+selected_papers: false # 自动展示 papers.bib 中 selected=true 的论文
 social: true # 显示社交/联系方式图标
 ---
 
