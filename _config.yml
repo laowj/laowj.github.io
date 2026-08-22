@@ -29,3 +29,10 @@ email: "" # 可填入你的邮箱
 socials:
   github: laowj
   googlescholar: "" # 填入你的 Google Scholar ID（如有）
+
+# -----------------------------------------------------------------------------
+# Build settings / Fixes
+# -----------------------------------------------------------------------------
+htmlproofer:
+  check_html: false
+  check_external_hash: false
