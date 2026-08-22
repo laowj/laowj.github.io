@@ -1,3 +1,4 @@
+---
 layout: page
 title: China Land Reform Database
 description: A comprehensive database and research platform on China's county-level land titling reform.
