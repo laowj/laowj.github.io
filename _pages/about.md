@@ -7,15 +7,20 @@ subtitle: Ph.D. Candidate in Economics
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # 设置为 true 可变成圆形头像
+  image_circular: false
 
-selected_papers: false # 自动展示 papers.bib 中 selected=true 的论文
-social: false # 显示社交/联系方式图标
+selected_papers: false
+social: false
 ---
 
 I am a Ph.D. candidate in Economics at Southwestern University of Finance and Economics (Research Institute of Economics and Management). 
 
 My research primarily focuses on **Development Economics** and **Urban Economics**, with a special emphasis on the effect of Land Reform and Water Infrastructure in China.
+
+### Contact
+* **Email**: [laowj0909@gmail.com](mailto:laowj0909@gmail.com)
+* **CV**: [Download CV](/assets/pdf/CV.pdf)
+* **GitHub**: [laowj](https://github.com/laowj)
 
 ### Research Interests
 * Development Economics
