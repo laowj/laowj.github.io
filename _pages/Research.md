@@ -34,7 +34,7 @@ China, with Yongye Liu, Under Review.
 
   /* 适配深浅模式的加粗处理 */
   strong, b {
-    font-weight: 900 !important;
+    font-weight: normal !important;
     color: inherit !important;
   }
 </style>
