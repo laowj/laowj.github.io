@@ -17,15 +17,15 @@ I am a fifth year Ph.D. student in Economics at Southwestern University of Finan
 
 My research primarily focuses on **Development Economics** and **Urban Economics**, with a special emphasis on two topics: (1) land reform; (2) water infrastructure.
 
-### Contact
-* **Email**: [laowj0909@gmail.com](mailto:laowj0909@gmail.com)
-* **CV**: [Download CV](/assets/pdf/CV.pdf)
 
 ### Research Interests
 * Development Economics
 * Urban Economics
 * Applied Microeconomics
 
+### Contact
+* **Email**: [laowj0909@gmail.com](mailto:laowj0909@gmail.com)
+* **CV**: [Download CV](/assets/pdf/CV.pdf)
 
 <style>
   /* 全站使用 Georgia 经典衬线体 */
