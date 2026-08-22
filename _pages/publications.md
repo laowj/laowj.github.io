@@ -1,8 +1,8 @@
----
+<img width="2400" height="1090" alt="image" src="https://github.com/user-attachments/assets/87a5d2f3-c51a-45de-bf10-a8f77ebded0f" />---
 layout: page
 permalink: /publications/
 title: Research
-description: Working Papers and Work in Progress
+description: 
 nav: true
 nav_order: 1
 ---
@@ -11,20 +11,22 @@ nav_order: 1
 
 1. **Beyond Compensation: Persistent Income Gains from Land Expropriation in Rural China**  
    *Solo paper*, Under Review.
-2. **Whose Rights? Land Titling, Gender, and Labor Mobility**  
-   *with Xiling Lei and Shukang Xiao*
+2. **Clan Culture and the Gender Gap in Elderly Physical Health: Evidence from
+China**, with Yongye Liu, Under Review.
 3. **Bricks and Beliefs: The Political Consequences of Booming House Prices in China**  
    *with Shilong Zhuang*
-4. **Fear Without Fallout: Nuclear Risk Perception and Firm Entry**  
+4. **Whose Rights? Land Titling, Gender, and Labor Mobility**  
+   *with Xiling Lei and Shukang Xiao*
+5. **Fear Without Fallout: Nuclear Risk Perception and Firm Entry**  
    *with Xiling Lei*
----
 
 ### Work in Progress
 1. **Political Centralization and Village Governance**  
-2. **Extreme Precipitation and Fertility** 
+2. **Extreme Climate and Fertility**
+3. **Dams and Human Capital**
 
 ### 中文
-2. 王剑程，劳伟健*，秦芳. 宗族文化与电商发展[J]，世界经济，2026，49（1）：111-142.
-
+1. 王剑程，劳伟健*，秦芳. 宗族文化与电商发展[J]，世界经济，2026，49（1）：111-142.
+2. 劳伟健，肖伟*. 农村集体产权制度改革与集体经济收入——基于CHFS数据的实证分析，外审。
 
 
