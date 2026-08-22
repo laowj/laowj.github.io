@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Economics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false
 
 selected_papers: false
