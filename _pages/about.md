@@ -33,6 +33,16 @@ My research primarily focuses on **Development Economics** and **Urban Economics
   A comprehensive database on 1950s land reform in China.
 -->
 
+<div style="margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee; text-align: center;">
+  <p style="font-family: 'Playfair Display', 'Caveat', 'Georgia', serif; font-size: 1.25rem; font-style: italic; color: #555; margin-bottom: 5px;">
+    “No great thing is created suddenly.”
+  </p>
+  <p style="font-family: 'Playfair Display', 'Georgia', serif; font-size: 0.95rem; color: #777; letter-spacing: 1px; text-transform: uppercase;">
+    — Epictetus
+  </p>
+</div>
+
+
 <style>
   /* 全站使用 Georgia 经典衬线体 */
   body, p, li, h1, h2, h3, h4, .navbar-brand, .post-title {
