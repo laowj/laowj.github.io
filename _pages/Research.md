@@ -26,8 +26,8 @@ China, with Yongye Liu, Under Review.
 2. 王剑程，劳伟健*，秦芳. 宗族文化与电商发展[J]，世界经济，2026，49（1）：111-142.
 3. 劳伟健，肖伟*. 农村集体产权制度改革与集体经济收入——基于CHFS数据的实证分析，外审。
 
+
 <style>
-  /* 全局统一使用 Georgia 衬线体 */
   body, p, li, h1, h2, h3, h4, .navbar-brand, .post-title {
     font-family: Georgia, 'Times New Roman', Times, serif !important;
   }
