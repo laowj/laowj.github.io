@@ -27,10 +27,12 @@ My research primarily focuses on **Development Economics** and **Urban Economics
 * **Email**: [laowj0909@gmail.com](mailto:laowj0909@gmail.com)
 * **CV**: [Download CV](/assets/pdf/CV.pdf)
 
+<!--
 ## Projects & Data
 * **China Gazetteer Land Reform Database**: [[Website](https://china-landreform.github.io/en/)] <br>
   A comprehensive database on 1950s land reform in China.
-  
+-->
+
 <style>
   /* 全站使用 Georgia 经典衬线体 */
   body, p, li, h1, h2, h3, h4, .navbar-brand, .post-title {
