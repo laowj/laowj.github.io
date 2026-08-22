@@ -13,14 +13,13 @@ selected_papers: false
 social: false
 ---
 
-I am a Ph.D. candidate in Economics at Southwestern University of Finance and Economics (Research Institute of Economics and Management). 
+I am a fifth year Ph.D. student in Economics at Southwestern University of Finance and Economics (Research Institute of Economics and Management), currently serving as a visiting Ph.D. student at Nanyang Technological University.
 
-My research primarily focuses on **Development Economics** and **Urban Economics**, with a special emphasis on the effect of Land Reform and Water Infrastructure in China.
+My research primarily focuses on **Development Economics** and **Urban Economics**, with a special emphasis on two topics: (1) China's land reform in different periods; (2) water infrastructure.
 
 ### Contact
 * **Email**: [laowj0909@gmail.com](mailto:laowj0909@gmail.com)
-* **CV**: [Download CV](/assets/pdf/CV.pdf)
-* **GitHub**: [laowj](https://github.com/laowj)
+* **CV**: [CV](/assets/pdf/CV.pdf)
 
 ### Research Interests
 * Development Economics
