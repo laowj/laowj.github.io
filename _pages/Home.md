@@ -27,7 +27,7 @@ CV: [Download](/assets/pdf/CV.pdf)
   A comprehensive database on 1950s land reform in China.
 -->
 
-<div style="margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee; text-align: center;">
+<div style="margin-top: 50px; padding-top: 20px; border-top: 2px solid #c026d3; text-align: center;">
   <p style="font-family: 'Playfair Display', 'Caveat', 'Georgia', serif; font-size: 1.25rem; font-style: italic; color: #555; margin-bottom: 5px;">
     “No great thing is created suddenly.”
   </p>
@@ -35,7 +35,6 @@ CV: [Download](/assets/pdf/CV.pdf)
     — Epictetus
   </p>
 </div>
-
 
 <style>
   /* 全站使用 Georgia 经典衬线体 */
@@ -48,4 +47,5 @@ CV: [Download](/assets/pdf/CV.pdf)
     font-weight: 900 !important;
     color: inherit !important; /* 自动适配深色/浅色模式 */
   }
+
 </style>

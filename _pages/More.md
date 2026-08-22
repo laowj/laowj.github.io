@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Project
-permalink: /projects/
+title: More
+permalink: /more/
 description: 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Project, Data]
 horizontal: false
 ---
 
@@ -63,3 +63,19 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+<style>
+  body, p, li, h1, h2, h3, h4, .navbar-brand, .post-title {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+  }
+
+  strong, b {
+    font-weight: 900 !important;
+    color: inherit !important;
+  }
+
+  .projects h2.category {
+    padding-left: 0.7rem;
+    border-left: 3px solid #c026d3;
+  }
+</style>
