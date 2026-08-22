@@ -14,11 +14,11 @@ nav_order: 1
 2. **Clan Culture and the Gender Gap in Elderly Physical Health: Evidence from
 China**
    *with Yongye Liu*, Under Review.
-3. **Bricks and Beliefs: The Political Consequences of Booming House Prices in China**  
+4. **Bricks and Beliefs: The Political Consequences of Booming House Prices in China**  
    *with Shilong Zhuang*
-4. **Whose Rights? Land Titling, Gender, and Labor Mobility**  
+5. **Whose Rights? Land Titling, Gender, and Labor Mobility**  
    *with Xiling Lei and Shukang Xiao*
-5. **Fear Without Fallout: Nuclear Risk Perception and Firm Entry**  
+6. **Fear Without Fallout: Nuclear Risk Perception and Firm Entry**  
    *with Xiling Lei*
 
 ### Work in Progress
