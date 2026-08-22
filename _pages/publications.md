@@ -13,7 +13,7 @@ nav_order: 1
    *Solo paper*, Under Review.
 2. **Clan Culture and the Gender Gap in Elderly Physical Health: Evidence from
 China**
-   *with Yongye Liu, Under Review.
+   *with Yongye Liu*, Under Review.
 4. **Bricks and Beliefs: The Political Consequences of Booming House Prices in China**  
    *with Shilong Zhuang*
 5. **Whose Rights? Land Titling, Gender, and Labor Mobility**  
