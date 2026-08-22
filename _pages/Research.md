@@ -24,7 +24,7 @@ nav_order: 1
 ### 中文
 
 1. 晏正伟, **劳伟健***, 韩雷,宋森安. 数字金融发展能够促进家庭捐赠吗[J], 经济学报, 2025, 12(1): 77-95.
-2. 王剑程, **劳伟健***, 秦芳. 宗族文化与电商发展[J], 世界经济, 2026, 49(1):111-142.
+2. 王剑程, **劳伟健***, 秦芳. 宗族文化与电商发展[J], 世界经济, 2026, 49(1): 111-142.
 <!-- 3. **劳伟健**，肖伟*. 农村集体产权制度改革与集体经济收入——基于CHFS数据的实证分析，外审。 -->
 
 <style>
@@ -36,5 +36,63 @@ nav_order: 1
 
   h3 {
     font-weight: bold !important;
+  }
+
+  .post article {
+    position: relative;
+  }
+
+  .post article::before {
+    content: "";
+    position: absolute;
+    top: -2rem;
+    right: 0;
+    width: 9rem;
+    height: 9rem;
+    border: 1px solid rgba(192, 38, 211, 0.22);
+    border-radius: 50%;
+    box-shadow: 1.5rem 1.5rem 0 -1.2rem rgba(192, 38, 211, 0.18);
+    pointer-events: none;
+  }
+
+  .post article::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 2.5rem;
+    width: 4rem;
+    height: 4rem;
+    background-image: radial-gradient(circle, rgba(192, 38, 211, 0.35) 1px, transparent 1px);
+    background-size: 10px 10px;
+    opacity: 0.35;
+    pointer-events: none;
+  }
+
+  .post article h3 {
+    margin-top: 2.25rem;
+    padding-left: 0.7rem;
+    border-left: 3px solid #c026d3;
+  }
+
+  .post article h3:first-child {
+    margin-top: 1rem;
+  }
+
+  .post article ol {
+    margin-bottom: 1.5rem;
+  }
+
+  @media (max-width: 768px) {
+    .post article::before {
+      top: -1rem;
+      width: 6rem;
+      height: 6rem;
+    }
+
+    .post article::after {
+      right: 1.5rem;
+      width: 3rem;
+      height: 3rem;
+    }
   }
 </style>
