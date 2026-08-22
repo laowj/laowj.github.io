@@ -28,7 +28,7 @@ My research primarily focuses on **Development Economics** and **Urban Economics
 * **CV**: [Download CV](/assets/pdf/CV.pdf)
 
 ## Projects & Data
-* **China Land Reform Database**: [[Website](https://china-landreform.github.io/en/)] 
+* **China Gazetteer Land Reform Database**: [[Website](https://china-landreform.github.io/en/)] <br>
   A comprehensive database on 1950s land reform in China.
   
 <style>
