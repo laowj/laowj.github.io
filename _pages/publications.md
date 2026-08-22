@@ -2,19 +2,29 @@
 layout: page
 permalink: /publications/
 title: Research
-description: Working Papers and Publications
+description: Working Papers and Work in Progress
 nav: true
 nav_order: 1
 ---
 
-<!-- _pages/publications.md -->
+### Working Papers
 
-<!-- Bibsearch Feature -->
+1. **Beyond Compensation: Persistent Income Gains from Land Expropriation in Rural China**  
+   *Solo paper*, Under Review.
+2. **Whose Rights? Land Titling, Gender, and Labor Mobility**  
+   *with Xiling Lei and Shukang Xiao*
+3. **Bricks and Beliefs: The Political Consequences of Booming House Prices in China**  
+   *with Shilong Zhuang*
+4. **Fear Without Fallout: Nuclear Risk Perception and Firm Entry**  
+   *with Xiling Lei*
+---
 
-{% include bib_search.liquid %}
+### Work in Progress
+1. **Political Centralization and Village Governance**  
+2. **Extreme Precipitation and Fertility** 
 
-<div class="publications">
+### 中文
+2. 王剑程，劳伟健*，秦芳. 宗族文化与电商发展[J]，世界经济，2026，49（1）：111-142.
 
-{% bibliography %}
 
-</div>
+
