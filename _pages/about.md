@@ -19,7 +19,7 @@ My research primarily focuses on **Development Economics** and **Urban Economics
 
 ### Contact
 * **Email**: [laowj0909@gmail.com](mailto:laowj0909@gmail.com)
-* **CV**: [CV](/assets/pdf/CV.pdf)
+* **CV**: [Download CV](/assets/pdf/CV.pdf)
 
 ### Research Interests
 * Development Economics
