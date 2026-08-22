@@ -15,7 +15,7 @@ social: false
 
 I am a fifth year Ph.D. student in Economics at Southwestern University of Finance and Economics (Research Institute of Economics and Management), currently serving as a visiting Ph.D. student at Nanyang Technological University.
 
-My research primarily focuses on **Development Economics** and **Urban Economics**, with a special emphasis on two topics: (1) China's land reform in different periods; (2) water infrastructure.
+My research primarily focuses on **Development Economics** and **Urban Economics**, with a special emphasis on two topics: (1) land reform; (2) water infrastructure.
 
 ### Contact
 * **Email**: [laowj0909@gmail.com](mailto:laowj0909@gmail.com)
