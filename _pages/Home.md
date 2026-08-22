@@ -49,7 +49,7 @@ CV: [Download](/assets/pdf/CV.pdf)
   }
 
   .profile {
-    width: 36% !important;
+    width: 40% !important;
     max-width: 360px;
   }
 
