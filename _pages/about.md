@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D. Candidate in Economics
+subtitle: Welcome to my website!
 
 profile:
   align: right
