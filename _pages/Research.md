@@ -28,8 +28,18 @@ China, with Yongye Liu, Under Review.
 
 
 <style>
+  /* 1. 全局统一使用 Georgia 衬线体 */
   body, p, li, h1, h2, h3, h4, .navbar-brand, .post-title {
     font-family: Georgia, 'Times New Roman', Times, serif !important;
   }
 
+  /* 2. 取消列表项（题目）的默认加粗，恢复为正常字重 */
+  ol li, ul li {
+    font-weight: normal !important;
+  }
+
+  /* 3. 允许你自己手动用 **名字** 加粗的内容依然保持粗体 */
+  strong, b {
+    font-weight: bold !important;
+  }
 </style>
