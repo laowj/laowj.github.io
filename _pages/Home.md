@@ -48,4 +48,20 @@ CV: [Download](/assets/pdf/CV.pdf)
     color: inherit !important; /* 自动适配深色/浅色模式 */
   }
 
+  .profile {
+    width: 36% !important;
+    max-width: 360px;
+  }
+
+  .profile img {
+    width: 100% !important;
+  }
+
+  @media (max-width: 768px) {
+    .profile {
+      width: 55% !important;
+      max-width: 300px;
+    }
+  }
+
 </style>
