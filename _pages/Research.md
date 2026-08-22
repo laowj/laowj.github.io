@@ -31,11 +31,10 @@ nav_order: 1
   /* 强制全局应用 Georgia 字体，并恢复正常字重 */
   body, p, li, ol, ul {
     font-family: Georgia, 'Times New Roman', Times, serif !important;
-    font-weight: 400 !important;
+    font-weight: normal !important;
   }
-  
-  /* 仅让 ### 标题和 **粗体名字** 保持加粗 */
-  h3, strong, b {
-    font-weight: 700 !important;
+
+  h3 {
+    font-weight: bold !important;
   }
 </style>
