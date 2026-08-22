@@ -28,14 +28,14 @@ nav_order: 1
 3. **劳伟健**，肖伟*. 农村集体产权制度改革与集体经济收入——基于CHFS数据的实证分析，外审。
 
 <style>
-  body, p, li, h1, h2, h3, h4, .navbar-brand, .post-title {
+  /* 强制全局应用 Georgia 字体，并恢复正常字重 */
+  body, p, li, ol, ul {
     font-family: Georgia, 'Times New Roman', Times, serif !important;
-    font-weight: normal !important;
+    font-weight: 400 !important;
   }
-  h3 {
-    font-weight: bold !important;
-  }
-  strong, b {
-    font-weight: bold !important;
+  
+  /* 仅让 ### 标题和 **粗体名字** 保持加粗 */
+  h3, strong, b {
+    font-weight: 700 !important;
   }
 </style>
