@@ -32,9 +32,4 @@ China, with Yongye Liu, Under Review.
     font-family: Georgia, 'Times New Roman', Times, serif !important;
   }
 
-  /* 适配深浅模式的加粗处理 */
-  strong, b {
-    font-weight: normal !important;
-    color: inherit !important;
-  }
 </style>
