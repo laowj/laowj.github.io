@@ -15,9 +15,9 @@ social: true # 显示社交/联系方式图标
 
 I am a Ph.D. candidate in Economics at Southwestern University of Finance and Economics (Research Institute of Economics and Management). 
 
-My research primarily focuses on **Labor Economics** and **Development Economics**, with a special emphasis on land titling, household division of labor, and gender disparities in labor reallocation.
+My research primarily focuses on **Development Economics** and **Urban Economics**, with a special emphasis on the effect of Land Reform and Water Infrastructure in China.
 
 ### Research Interests
-* Labor Economics
 * Development Economics
+* Urban Economics
 * Applied Microeconomics
