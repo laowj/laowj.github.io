@@ -9,17 +9,17 @@ nav_order: 1
 
 ### Working Papers
 
-1. **Beyond Compensation: Persistent Income Gains from Land Expropriation in Rural China**, Solo paper, Under Review.
-2. **Clan Culture and the Gender Gap in Elderly Physical Health: Evidence from
-China**, with Yongye Liu, Under Review.
-3. **Whose Rights? Land Titling, Gender, and Labor Mobility**, with Xiling Lei and Shukang Xiao
-4. **Fear Without Fallout: Nuclear Risk and Firm Entry**, with Xiling Lei
-5. **Bricks and Beliefs: The Political Consequences of Booming House Prices in China**, with Shilong Zhuang
+1. Beyond Compensation: Persistent Income Gains from Land Expropriation in Rural China, Solo paper, Under Review.
+2. Clan Culture and the Gender Gap in Elderly Physical Health: Evidence from
+China, with Yongye Liu, Under Review.
+3. Whose Rights? Land Titling, Gender, and Labor Mobility, with Xiling Lei and Shukang Xiao
+4. Fear Without Fallout: Nuclear Risk and Firm Entry, with Xiling Lei
+5. Bricks and Beliefs: The Political Consequences of Booming House Prices in China, with Shilong Zhuang
 
 ### Work in Progress
-1. **Political Centralization and Village Governance**  
-2. **Extreme Climate and Fertility**
-3. **Dams and Human Capital**
+1. Political Centralization and Village Governance 
+2. Extreme Climate and Fertility
+3. Dams and Human Capital
 
 ### 中文
 1. 晏正伟，劳伟健*，韩雷，宋森安. 数字金融发展能够促进家庭捐赠吗[J], 经济学报，2025，12（1）：77-95.
