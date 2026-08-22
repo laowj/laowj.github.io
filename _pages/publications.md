@@ -12,9 +12,9 @@ nav_order: 1
 1. **Beyond Compensation: Persistent Income Gains from Land Expropriation in Rural China**, Solo paper, Under Review.
 2. **Clan Culture and the Gender Gap in Elderly Physical Health: Evidence from
 China**, with Yongye Liu, Under Review.
-3. **Bricks and Beliefs: The Political Consequences of Booming House Prices in China**, with Shilong Zhuang
-4. **Whose Rights? Land Titling, Gender, and Labor Mobility**, with Xiling Lei and Shukang Xiao
-5. **Fear Without Fallout: Nuclear Risk Perception and Firm Entry**, with Xiling Lei
+3. **Whose Rights? Land Titling, Gender, and Labor Mobility**, with Xiling Lei and Shukang Xiao
+4. **Fear Without Fallout: Nuclear Risk Perception and Firm Entry**, with Xiling Lei
+5. **Bricks and Beliefs: The Political Consequences of Booming House Prices in China**, with Shilong Zhuang
 
 ### Work in Progress
 1. **Political Centralization and Village Governance**  
