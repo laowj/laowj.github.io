@@ -6,7 +6,7 @@ subtitle: Welcome to my website!
 
 profile:
   align: right
-  image: 
+  image: Image.jpg
   image_circular: false
   
 selected_papers: false
