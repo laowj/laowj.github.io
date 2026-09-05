@@ -36,7 +36,7 @@ nav_order: 1
 
   h3 {
     font-weight: bold !important;
-    font-size: 1.2rem !important;
+    font-size: 1.0rem !important;
     padding-left: 0.7rem;
     border-left: 3px solid #c026d3;
   }
