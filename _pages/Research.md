@@ -9,7 +9,7 @@ nav_order: 1
 
 ### Working Papers
 
-1. Beyond Compensation: Persistent Income Gains from Land Expropriation in Rural China, Solo paper, Under Review.
+1. Beyond Compensation: Persistent Income Gains from Land Expropriation in Rural China, Under Review.
 <!-- 2. Clan Culture and the Gender Gap in Elderly Physical Health: Evidence from China, with [Yongye Liu](https://sites.google.com/view/yongye-liu/), Under Review. -->
 2. Land Titling, Gender, and Labor Mobility, with Xiling Lei and [Shukang Xiao](https://sites.google.com/view/shukang/)
 3. Fear Without Fallout: Nuclear Risk and Firm Entry, with Xiling Lei
