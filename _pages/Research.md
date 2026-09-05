@@ -21,7 +21,7 @@ nav_order: 1
 1. Political Centralization and Village Governance
 2. Dams and Human Capital
 
-### 中文
+### Publication in Chinese
 
 1. 晏正伟, **劳伟健***, [韩雷](https://business.xtu.edu.cn/index.jsp?cc=cshizidw&cd=teacher&ac=view&id=100175), 宋森安. 数字金融发展能够促进家庭捐赠吗[J], 经济学报, 2025, 12(1): 77-95.
 2. [王剑程](https://isbf.sysu.edu.cn/zh-hans/teacher/288), **劳伟健***, [秦芳](https://riem.swufe.edu.cn/info/1231/11501.htm). 宗族文化与电商发展[J], 世界经济, 2026, 49(1): 111-142.
