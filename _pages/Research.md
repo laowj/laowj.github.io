@@ -11,8 +11,8 @@ nav_order: 1
 
 1. Beyond Compensation: Persistent Income Gains from Land Expropriation in Rural China
 2. Political Centralization and Local Development: Evidence from Village Leadership Reform in China, with [Wei Xiao](https://riem.swufe.edu.cn/info/1201/11171.htm) and [Bingqian Tu](http://sc.ruc.edu.cn/department/ssg/ssg_users/szjj/tbq/index.htm)
-3. Land Titling, Gender, and Labor Mobility, with Xiling Lei and [Shukang Xiao](https://sites.google.com/view/shukang/)
-4. Precipitation Extremes, Rural Livelihoods, and Fertility in China, with Xiling Lei
+3. Land Titling, Gender, and Labor Mobility in China, with Xiling Lei and [Shukang Xiao](https://sites.google.com/view/shukang/). *Submitted*.
+4. Precipitation Extremes, Rural Livelihoods, and Fertility in China, with Xiling Lei. *Submitted*.
 <!-- Clan Culture and the Gender Gap in Elderly Physical Health: Evidence from China, with [Yongye Liu](https://sites.google.com/view/yongye-liu/), Under Review. -->
 <!-- 5. Fear Without Fallout: Nuclear Risk and Firm Entry, with Xiling Lei -->
 5. Bricks and Beliefs: The Political Consequences of Booming House Prices in China, with Shilong Zhuang
