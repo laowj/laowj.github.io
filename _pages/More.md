@@ -5,77 +5,58 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Project, Data]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
-
-{% else %}
-
-<!-- Display projects without categories -->
-
 {% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+<div class="more-list">
+{% for project in sorted_projects %}
+  <div class="more-item">
+    <div class="more-item-line">
+      <strong>{{ project.title }}</strong>
+      <a href="{{ project.redirect }}" target="_blank" rel="noopener noreferrer">Website</a>
+      <span class="more-item-role">{{ project.role }}</span>
     </div>
+    <details>
+      <summary>About this project</summary>
+      <p>{{ project.description }}</p>
+    </details>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
+{% endfor %}
 </div>
 
 <style>
-  body, p, li, h1, h2, h3, h4, .navbar-brand, .post-title {
+  body, p, li, h1, .navbar-brand, .post-title {
     font-family: Georgia, 'Times New Roman', Times, serif !important;
   }
 
-  strong, b {
-    font-weight: 900 !important;
-    color: inherit !important;
+  .more-item {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--global-divider-color);
   }
 
-  .projects h2.category {
-    padding-left: 0.7rem;
-    border-left: 3px solid #c026d3;
+  .more-item-line {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .more-item-role {
+    color: var(--global-text-color-light);
+  }
+
+  .more-item details {
+    margin-top: 0.4rem;
+  }
+
+  .more-item summary {
+    width: fit-content;
+    color: var(--global-theme-color);
+    cursor: pointer;
+  }
+
+  .more-item p {
+    margin: 0.5rem 0 0;
+    max-width: 48rem;
   }
 </style>
