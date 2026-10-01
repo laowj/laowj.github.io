@@ -13,9 +13,9 @@ nav_order: 3
   <details class="more-item">
     <summary>
       <span class="more-item-line">
-        <strong>{{ project.title }}</strong>
-        <a href="{{ project.redirect }}" target="_blank" rel="noopener noreferrer">Website</a>
-        <span class="more-item-role">{{ project.role }}</span>
+        <span>[{{ project.number }}]</span>
+        <strong><a href="{{ project.redirect }}" target="_blank" rel="noopener noreferrer">{{ project.title }}</a></strong>
+        <span class="more-item-role">— {{ project.role }}</span>
       </span>
       <span class="more-item-toggle" aria-hidden="true"></span>
     </summary>
@@ -32,12 +32,7 @@ nav_order: 3
   }
 
   .more-item {
-    border-top: 1px solid var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
-  }
-
-  .more-item + .more-item {
-    border-top: 0;
   }
 
   .more-item summary {
