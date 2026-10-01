@@ -10,17 +10,19 @@ nav_order: 3
 {% assign sorted_projects = site.projects | sort: "importance" %}
 <div class="more-list">
 {% for project in sorted_projects %}
-  <div class="more-item">
-    <div class="more-item-line">
-      <strong>{{ project.title }}</strong>
-      <a href="{{ project.redirect }}" target="_blank" rel="noopener noreferrer">Website</a>
-      <span class="more-item-role">{{ project.role }}</span>
-    </div>
-    <details>
-      <summary>About this project</summary>
+  <details class="more-item">
+    <summary>
+      <span class="more-item-line">
+        <strong>{{ project.title }}</strong>
+        <a href="{{ project.redirect }}" target="_blank" rel="noopener noreferrer">Website</a>
+        <span class="more-item-role">{{ project.role }}</span>
+      </span>
+      <span class="more-item-toggle" aria-hidden="true"></span>
+    </summary>
+    <div class="more-item-description">
       <p>{{ project.description }}</p>
-    </details>
-  </div>
+    </div>
+  </details>
 {% endfor %}
 </div>
 
@@ -30,8 +32,26 @@ nav_order: 3
   }
 
   .more-item {
-    padding: 0.75rem 0;
+    border-top: 1px solid var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
+  }
+
+  .more-item + .more-item {
+    border-top: 0;
+  }
+
+  .more-item summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1.25rem 0.5rem;
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .more-item summary::-webkit-details-marker {
+    display: none;
   }
 
   .more-item-line {
@@ -45,18 +65,52 @@ nav_order: 3
     color: var(--global-text-color-light);
   }
 
-  .more-item details {
-    margin-top: 0.4rem;
+  .more-item-toggle {
+    display: grid;
+    width: 3rem;
+    height: 3rem;
+    flex: 0 0 3rem;
+    place-items: center;
+    border-radius: 50%;
+    background: rgba(128, 128, 128, 0.08);
   }
 
-  .more-item summary {
-    width: fit-content;
-    color: var(--global-theme-color);
-    cursor: pointer;
+  .more-item-toggle::before {
+    width: 0.65rem;
+    height: 0.65rem;
+    content: "";
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: translateY(-0.15rem) rotate(45deg);
+    transition: transform 0.2s ease;
+  }
+
+  .more-item[open] .more-item-toggle::before {
+    transform: translateY(0.15rem) rotate(225deg);
+  }
+
+  .more-item-description {
+    padding: 0 4.5rem 1.25rem 0.5rem;
   }
 
   .more-item p {
-    margin: 0.5rem 0 0;
+    margin: 0;
     max-width: 48rem;
+  }
+
+  @media (max-width: 576px) {
+    .more-item summary {
+      padding: 1rem 0;
+    }
+
+    .more-item-toggle {
+      width: 2.5rem;
+      height: 2.5rem;
+      flex-basis: 2.5rem;
+    }
+
+    .more-item-description {
+      padding: 0 0 1rem;
+    }
   }
 </style>
