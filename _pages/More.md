@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+<h1 class="post-title">Data</h1>
+
 {% assign sorted_projects = site.projects | sort: "importance" %}
 <div class="more-list">
 {% for project in sorted_projects %}
@@ -27,6 +29,10 @@ nav_order: 3
 </div>
 
 <style>
+  .post-header {
+    display: none;
+  }
+
   body, p, li, h1, .navbar-brand, .post-title {
     font-family: Georgia, 'Times New Roman', Times, serif !important;
   }
@@ -66,8 +72,6 @@ nav_order: 3
     height: 3rem;
     flex: 0 0 3rem;
     place-items: center;
-    border-radius: 50%;
-    background: rgba(128, 128, 128, 0.08);
   }
 
   .more-item-toggle::before {
