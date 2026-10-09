@@ -13,7 +13,7 @@ nav_order: 1
   <li>
     <details class="research-paper">
       <summary>
-        <span>Beyond Compensation: Persistent Income Gains from Land Expropriation in Rural China</span>
+        <span>Beyond Compensation: Persistent Income Gains from Land Expropriation in Rural China, <em>submitted</em>.</span>
       </summary>
       <p><em>Abstract:</em> This paper evaluates the income effects of land expropriation on rural households in China. Drawing on the China Household Finance Survey (CHFS) and a staggered difference-in-differences (DID) framework, the analysis shows that households experience substantial income gains after land expropriation in both the short and long run. This result is driven by the sizable lump-sum compensation and especially subsequent adjustments in employment and asset allocation within the household, which support a persistent gain in income. I further find that the effects are more pronounced for households located closer to township centers, and expropriation does not lead to a decline in rural food production or subjective well-being. This paper provides new empirical evidence and mechanisms for understanding the economic implications of land expropriation in developing countries.</p>
     </details>
@@ -21,7 +21,7 @@ nav_order: 1
   <li>
     <details class="research-paper">
       <summary>
-        <span>Land Titling, Gender, and Labor Mobility in China, with Xiling Lei and <a href="https://sites.google.com/view/shukang/">Shukang Xiao</a>, <em>Submitted</em>.</span>
+        <span>Land Titling, Gender, and Labor Mobility in China, with Xiling Lei and <a href="https://sites.google.com/view/shukang/">Shukang Xiao</a>, <em>submitted</em>.</span>
       </summary>
       <p><em>Abstract:</em> We examine gender differences in the sectoral reallocation effects of land titling in rural China. Using the 2013–2019 China Household Finance Survey and village-level titling completion years, we exploit the reform's staggered rollout in a difference-in-differences design. Titling increases men's non-agricultural employment by 4.5 percentage points but produces no detectable aggregate response among women. We assess explanations involving household responsibilities, local job opportunities, and mobility costs. These factors help explain the pattern of men's reallocation out of agriculture, but do not account for women's lack of an aggregate response. We then explore household risk management as a complementary explanation. The joint employment, income, and consumption patterns are consistent with households expanding higher-return work while limiting changes in women's overall sectoral allocation, thereby stabilizing household income against potential fluctuations.</p>
     </details>
@@ -29,7 +29,7 @@ nav_order: 1
   <li>
     <details class="research-paper">
       <summary>
-        <span>Precipitation Extremes, Rural Livelihoods, and Fertility in China, with Xiling Lei, <em>Submitted</em>.</span>
+        <span>Precipitation Extremes, Rural Livelihoods, and Fertility in China, with Xiling Lei, <em>submitted</em>.</span>
       </summary>
       <p><em>Abstract:</em> This study examines how extreme precipitation affects fertility in rural China. We estimate that an extremely dry or wet year lowers the number of women giving birth in the following year by approximately 3 per 1,000 rural registered-address women aged 20–49. This estimate remains negative across alternative definitions of fertility and precipitation exposure, regression specifications, and sample restrictions. The main mechanisms operate through lower agricultural income and greater labor migration, which respectively constrain resources for childbearing and disrupt household arrangements. We find no evidence of a health mechanism. Heterogeneity estimates provide no conclusive evidence that any measured geographic or economic characteristic attenuates the short-run fertility decline. Our findings therefore highlight fertility as an important margin of household adjustment to climate shocks and underscore the need to account for demographic responses when assessing the broader consequences of climate risk in rural economies.</p>
     </details>
