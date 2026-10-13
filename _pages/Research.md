@@ -35,15 +35,15 @@ nav_order: 1
     </details>
   </li>
 <!-- Clan Culture and the Gender Gap in Later-Life Health, *Submitted*. -->
-<!-- 5. Fear Without Fallout: Nuclear Risk and Firm Entry, with Xiling Lei -->
+5. Fear Without Fallout: Nuclear Risk and Firm Entry, with Xiling Lei and <a href="https://sites.google.com/view/tangchengkeat/home">Cheng Keat Tang</a>
   <li>Bricks and Beliefs: The Political Consequences of Booming House Prices in China, with Shilong Zhuang</li>
 </ol>
 
 ### Work in Progress
 
-1. Dams and Human Capital
-2. Water Infrastructure and Firm Performance
-3. Political Centralization and Local Development
+1. Dams and Human Capital, with <a href="https://xiaoecon.weebly.com/">Wei Xiao</a>
+2. Water Infrastructure and Firm Performance, with <a href="https://sites.google.com/view/tangchengkeat/home">Cheng Keat Tang</a> and <a href="https://sites.google.com/site/leiyhecon">Yu-Hsiang LEI</a>
+3. Political Centralization and Local Development, with <a href="https://xiaoecon.weebly.com/">Wei Xiao</a>
 
 ### Publication in Chinese
 
