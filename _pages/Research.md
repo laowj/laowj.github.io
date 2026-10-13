@@ -35,7 +35,7 @@ nav_order: 1
     </details>
   </li>
 
-  <li>Fear Without Fallout: Nuclear Risk and Firm Entry, with Xiling Lei and <a href="https://sites.google.com/view/tangchengkeat/home">Cheng Keat Tang</a></li>
+  <!-- <li>Fear Without Fallout: Nuclear Risk and Firm Entry, with Xiling Lei and <a href="https://sites.google.com/view/tangchengkeat/home">Cheng Keat Tang</a></li> -->
   <li>Bricks and Beliefs: The Political Consequences of Booming House Prices in China, with Shilong Zhuang</li>
 </ol>
 
