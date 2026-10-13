@@ -41,9 +41,9 @@ nav_order: 1
 
 ### Work in Progress
 
-1. Dams and Human Capital, with <a href="https://xiaoecon.weebly.com/">Wei Xiao</a>
-2. Water Infrastructure and Firm Performance, with <a href="https://sites.google.com/view/tangchengkeat/home">Cheng Keat Tang</a> and <a href="https://sites.google.com/site/leiyhecon">Yu-Hsiang LEI</a>
-3. Political Centralization and Local Development, with <a href="https://xiaoecon.weebly.com/">Wei Xiao</a> and <a href="https://xiaoecon.weebly.com/">Bingqian Tu</a>
+1. Dams and Human Capital
+2. Water Infrastructure and Firm Performance
+3. Political Centralization and Local Development
 
 ### Publication in Chinese
 
