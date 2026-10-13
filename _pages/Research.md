@@ -34,8 +34,8 @@ nav_order: 1
       <p><em>Abstract:</em> This study examines how extreme precipitation affects fertility in rural China. We estimate that an extremely dry or wet year lowers the number of women giving birth in the following year by approximately 3 per 1,000 rural registered-address women aged 20–49. This estimate remains negative across alternative definitions of fertility and precipitation exposure, regression specifications, and sample restrictions. The main mechanisms operate through lower agricultural income and greater labor migration, which respectively constrain resources for childbearing and disrupt household arrangements. We find no evidence of a health mechanism. Heterogeneity estimates provide no conclusive evidence that any measured geographic or economic characteristic attenuates the short-run fertility decline. Our findings therefore highlight fertility as an important margin of household adjustment to climate shocks and underscore the need to account for demographic responses when assessing the broader consequences of climate risk in rural economies.</p>
     </details>
   </li>
-<!-- Clan Culture and the Gender Gap in Later-Life Health, *Submitted*. -->
-5. Fear Without Fallout: Nuclear Risk and Firm Entry, with Xiling Lei and <a href="https://sites.google.com/view/tangchengkeat/home">Cheng Keat Tang</a>
+
+  <li>Fear Without Fallout: Nuclear Risk and Firm Entry, with Xiling Lei and <a href="https://sites.google.com/view/tangchengkeat/home">Cheng Keat Tang</a></li>
   <li>Bricks and Beliefs: The Political Consequences of Booming House Prices in China, with Shilong Zhuang</li>
 </ol>
 
@@ -43,7 +43,7 @@ nav_order: 1
 
 1. Dams and Human Capital, with <a href="https://xiaoecon.weebly.com/">Wei Xiao</a>
 2. Water Infrastructure and Firm Performance, with <a href="https://sites.google.com/view/tangchengkeat/home">Cheng Keat Tang</a> and <a href="https://sites.google.com/site/leiyhecon">Yu-Hsiang LEI</a>
-3. Political Centralization and Local Development, with <a href="https://xiaoecon.weebly.com/">Wei Xiao</a>
+3. Political Centralization and Local Development, with <a href="https://xiaoecon.weebly.com/">Wei Xiao</a> and <a href="https://xiaoecon.weebly.com/">Bingqian Tu</a>
 
 ### Publication in Chinese
 
