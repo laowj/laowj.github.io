@@ -36,6 +36,14 @@ nav_order: 1
   </li>
 
   <!-- <li>Fear Without Fallout: Nuclear Risk and Firm Entry, with Xiling Lei and <a href="https://sites.google.com/view/tangchengkeat/home">Cheng Keat Tang</a></li> -->
+  <li>
+    <details class="research-paper">
+      <summary>
+        <span>Political Centralization and Local Development: Evidence from Village Leadership Reform in China, with <a href="https://xiaoecon.weebly.com/">Wei Xiao</a> and <a href="http://sc.ruc.edu.cn/department/ssg/ssg_users/szjj/tbq/index.htm">Bingqian Tu</a></span>
+      </summary>
+      <p><em>Abstract:</em> Does concentrating political authority improve local development? We study China's Yijiantiao reform, which merges the Village Party Committee Secretary and elected Villagers Committee Director positions under one official. Using village- and household-level panels from the nationally representative China Household Finance Survey, we exploit staggered implementation shaped by preexisting village election cycles. Centralization raises the probability that a village reports positive total collective income by 19.3 percentage points and also increases collective income on the intensive margin. The gains operate through external resource acquisition and stronger cadre incentives: treated villages obtain more projects and fiscal transfers from higher-level governments, while revenue from collective assets and village enterprises does not increase. Effects are larger near township seats and in nationally designated poverty counties, where external development resources are more valuable or easier to acquire. Yet the gains do not translate into broad improvements in household welfare, village spending, or public infrastructure. Political centralization can therefore strengthen measured local capacity while leaving short-run benefits for residents limited.</p>
+    </details>
+  </li>
   <li>Bricks and Beliefs: The Political Consequences of Booming House Prices in China, with Shilong Zhuang</li>
 </ol>
 
@@ -43,7 +51,6 @@ nav_order: 1
 
 1. Dams and Human Capital
 2. Water Infrastructure and Firm Performance
-3. Political Centralization and Local Development
 
 ### Publication in Chinese
 
