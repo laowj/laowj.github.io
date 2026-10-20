@@ -19,7 +19,10 @@
   }
 
   .research-list > li {
-    margin-bottom: 0.45rem;
+    width: calc(100% + 1.25rem);
+    margin-bottom: 0;
+    padding: 0.65rem 0;
+    border-bottom: 1px solid var(--global-divider-color);
   }
 
   .research-paper summary {
@@ -55,6 +58,12 @@
     margin: 0.65rem 1.5rem 0.85rem 0;
     color: var(--global-text-color-light);
     line-height: 1.55;
+  }
+
+  @media (max-width: 576px) {
+    .research-list > li {
+      width: 100%;
+    }
   }
 
 </style> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Weijian Lao . </div> </footer> <script>
