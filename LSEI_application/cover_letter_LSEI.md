@@ -1,0 +1,30 @@
+Weijian Lao  
+Ph.D. Candidate in Regional Economics  
+Southwestern University of Finance and Economics  
+Email: laowj0909@gmail.com | Website: https://laowj.github.io  
+
+14 October 2026
+
+Search Committee  
+Longevity Societies and Economies Institute  
+Singapore Management University  
+81 Victoria Street  
+Singapore 188065
+
+Dear Members of the Search Committee,
+
+I am writing to apply for the Research Fellow position at the Longevity Societies and Economies Institute (LSEI), Singapore Management University. I am currently a Ph.D. candidate in Regional Economics at Southwestern University of Finance and Economics and a visiting research student at Nanyang Technological University. I expect to complete my Ph.D. in 2027. My research applies causal inference methods to large household and regional datasets to study labour allocation, household economic resilience, health, and demographic change. This background closely matches LSEI's interdisciplinary and policy-oriented research agenda on how Asian societies can adapt to longer lives.
+
+My current research speaks directly to several themes of the position. One working paper examines clan culture and gender differences in the physical health of older adults in China. Other projects investigate how land titling changes men's and women's movement into non-agricultural employment, how land expropriation affects household income and asset allocation, and how climate shocks influence rural livelihoods and fertility. Together, these projects have strengthened my interest in the connections among labour-force participation, household financial security, health, well-being, and demographic change. They would provide a strong foundation for contributing to LSEI's work on workforce transformation, successful ageing, and the economic and social dimensions of longevity.
+
+I have substantial experience assembling, managing, and analysing complex microdata. My research uses the China Household Finance Survey and other household, administrative, historical, and spatial datasets. I am comfortable with staggered difference-in-differences designs and related applied econometric methods, and I work primarily in Stata, Python, R, and ArcGIS. I have also developed experience translating empirical results into research papers, presentations, charts, and materials for academic audiences. These skills would allow me to contribute to literature reviews, data analysis, evidence synthesis, and the preparation of policy-relevant research outputs.
+
+I would also bring experience in collaborative and grant-supported research. I served as principal investigator on a project funded by the Fundamental Research Funds for the Central Universities and participate in research supported by the National Natural Science Foundation of China and the Ministry of Education. My work involves coordinating with co-authors across institutions, developing research designs, managing data-intensive projects, and communicating findings at academic conferences. I would welcome the opportunity to apply these experiences in supporting LSEI's Principal Investigators, developing research and grant proposals, and collaborating with academic and external partners.
+
+I am particularly attracted to LSEI's focus on producing rigorous research that can inform practical responses to population ageing across Singapore and Asia. The Institute's combination of economic analysis, a life-course perspective, and engagement with government, industry, and community partners makes it an especially appealing environment for my research interests and training. I would be enthusiastic about contributing to LSEI's research programmes while expanding my work on household resilience, labour-market adjustment, health, and well-being.
+
+Thank you for considering my application. I have enclosed my curriculum vitae and would welcome the opportunity to discuss how my research experience and quantitative skills could contribute to the work of LSEI.
+
+Sincerely,
+
+Weijian Lao
