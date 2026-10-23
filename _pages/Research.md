@@ -49,8 +49,8 @@ nav_order: 1
 
 ### Work in Progress
 
-1. Dams and Human Capital
-2. Water Infrastructure and Firm Performance
+1. Dams and Human Capital, with <a href="https://xiaoecon.weebly.com/">Wei Xiao</a>
+2. Water Infrastructure and Firm Performance, with <a href="https://sites.google.com/view/tangchengkeat/home">Cheng Keat Tang</a> and <a href="https://sites.google.com/site/leiyhecon/home">Yu-Hsiang LEI</a>
 
 ### Publication in Chinese
 
