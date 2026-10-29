@@ -10,22 +10,23 @@ nav_order: 3
 <h2 class="more-section-title">Data</h2>
 
 {% assign sorted_projects = site.projects | sort: "importance" %}
-<div class="more-list">
+<ol class="more-list">
 {% for project in sorted_projects %}
-  <details class="more-item">
-    <summary>
-      <span class="more-item-line">
-        <span>{{ project.number | plus: 0 }}.</span>
-        <strong><a href="{{ project.redirect }}" target="_blank" rel="noopener noreferrer">{{ project.title }}</a></strong>
-        <span class="more-item-role">— {{ project.role }}</span>
-      </span>
-    </summary>
-    <div class="more-item-description">
-      <p>{{ project.description }}</p>
-    </div>
-  </details>
+  <li>
+    <details class="more-item">
+      <summary>
+        <span class="more-item-line">
+          <strong><a href="{{ project.redirect }}" target="_blank" rel="noopener noreferrer">{{ project.title }}</a></strong>
+          <span class="more-item-role">— {{ project.role }}</span>
+        </span>
+      </summary>
+      <div class="more-item-description">
+        <p>{{ project.description }}</p>
+      </div>
+    </details>
+  </li>
 {% endfor %}
-</div>
+</ol>
 
 <h2 class="more-section-title">Publication in Chinese</h2>
 
@@ -61,12 +62,13 @@ nav_order: 3
     margin-top: 2.5rem;
   }
 
-  .more-item,
+  .more-list > li,
   .more-publication-list li {
     padding: 0.65rem 0;
     border-bottom: 1px solid var(--global-divider-color);
   }
 
+  .more-list,
   .more-publication-list ol {
     margin: 0;
     padding-left: 2rem;
