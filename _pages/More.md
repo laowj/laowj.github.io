@@ -28,12 +28,16 @@ nav_order: 3
 {% endfor %}
 </div>
 
-### Publication in Chinese
+<h1 class="post-title">Publication in Chinese</h1>
+
+<div class="more-publication-list" markdown="1">
 
 1. 肖伟, **劳伟健**, 刘文翰, 贾昊文. "乡村创业：土地改革、减贫赋能与治理创新的视角". 载于 海闻 主编, 《田野变奏：农民生活变迁与乡村振兴》. 北京大学出版社, 2027.
 2. [王剑程](https://isbf.sysu.edu.cn/zh-hans/teacher/288), **劳伟健**, [秦芳](https://riem.swufe.edu.cn/info/1231/11501.htm). 宗族文化与电商发展[J], 世界经济, 2026, 49(1): 111-142.
 3. 晏正伟, **劳伟健**, [韩雷](https://business.xtu.edu.cn/index.jsp?cc=cshizidw&cd=teacher&ac=view&id=100175), 宋森安. 数字金融发展能够促进家庭捐赠吗[J], 经济学报, 2025, 12(1): 77-95.
 <!-- 3. **劳伟健**，肖伟*. 农村集体产权制度改革与集体经济收入——基于CHFS数据的实证分析，外审。 -->
+
+</div>
 
 <style>
   .post-header {
@@ -44,8 +48,18 @@ nav_order: 3
     font-family: Georgia, 'Times New Roman', Times, serif !important;
   }
 
-  .more-item {
+  .more-item,
+  .more-publication-list li {
     border-bottom: 1px solid var(--global-divider-color);
+  }
+
+  .more-publication-list ol {
+    margin: 0;
+    padding-left: 2rem;
+  }
+
+  .more-publication-list li {
+    padding: 1.25rem 0.5rem;
   }
 
   .more-item summary {
@@ -105,7 +119,8 @@ nav_order: 3
   }
 
   @media (max-width: 576px) {
-    .more-item summary {
+    .more-item summary,
+    .more-publication-list li {
       padding: 1rem 0;
     }
 
