@@ -74,6 +74,11 @@ nav_order: 3
     padding-left: 2rem;
   }
 
+  .more-list {
+    width: calc(100% - 1.75rem);
+    margin-left: 1.75rem;
+  }
+
   .more-item summary {
     display: flex;
     align-items: baseline;
