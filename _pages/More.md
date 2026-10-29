@@ -15,7 +15,7 @@ nav_order: 3
   <details class="more-item">
     <summary>
       <span class="more-item-line">
-        <span>[{{ project.number }}]</span>
+        <span>{{ project.number | plus: 0 }}.</span>
         <strong><a href="{{ project.redirect }}" target="_blank" rel="noopener noreferrer">{{ project.title }}</a></strong>
         <span class="more-item-role">— {{ project.role }}</span>
       </span>
