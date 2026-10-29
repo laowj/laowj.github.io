@@ -57,6 +57,10 @@ nav_order: 3
     font-weight: bold !important;
   }
 
+  .more-list + .more-section-title {
+    margin-top: 2.5rem;
+  }
+
   .more-item,
   .more-publication-list li {
     padding: 0.65rem 0;
