@@ -52,12 +52,6 @@ nav_order: 1
 1. Dams and Human Capital, with <a href="https://xiaoecon.weebly.com/">Wei Xiao</a>
 <!-- 2. Water Infrastructure and Firm Performance, with <a href="https://sites.google.com/view/tangchengkeat/home">Cheng Keat Tang</a> and <a href="https://sites.google.com/site/leiyhecon/home">Yu-Hsiang LEI</a> -->
 
-### Publication in Chinese
-1. 肖伟, **劳伟健**, 刘文翰, 贾昊文. "乡村创业：土地改革、减贫赋能与治理创新的视角". 载于 海闻 主编, 《田野变奏：农民生活变迁与乡村振兴》. 北京大学出版社, 2027.
-2. [王剑程](https://isbf.sysu.edu.cn/zh-hans/teacher/288), **劳伟健**, [秦芳](https://riem.swufe.edu.cn/info/1231/11501.htm). 宗族文化与电商发展[J], 世界经济, 2026, 49(1): 111-142.
-3. 晏正伟, **劳伟健**, [韩雷](https://business.xtu.edu.cn/index.jsp?cc=cshizidw&cd=teacher&ac=view&id=100175), 宋森安. 数字金融发展能够促进家庭捐赠吗[J], 经济学报, 2025, 12(1): 77-95.
-<!-- 3. **劳伟健**，肖伟*. 农村集体产权制度改革与集体经济收入——基于CHFS数据的实证分析，外审。 -->
-
 <style>
   /* 强制全局应用 Georgia 字体，并恢复正常字重 */
   body, p, li, ol, ul {
