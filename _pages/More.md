@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<h1 class="post-title">Data</h1>
+<h2 class="more-section-title">Data</h2>
 
 {% assign sorted_projects = site.projects | sort: "importance" %}
 <div class="more-list">
@@ -19,7 +19,6 @@ nav_order: 3
         <strong><a href="{{ project.redirect }}" target="_blank" rel="noopener noreferrer">{{ project.title }}</a></strong>
         <span class="more-item-role">— {{ project.role }}</span>
       </span>
-      <span class="more-item-toggle" aria-hidden="true"></span>
     </summary>
     <div class="more-item-description">
       <p>{{ project.description }}</p>
@@ -28,7 +27,7 @@ nav_order: 3
 {% endfor %}
 </div>
 
-<h1 class="post-title">Publication in Chinese</h1>
+<h2 class="more-section-title">Publication in Chinese</h2>
 
 <div class="more-publication-list" markdown="1">
 
@@ -44,12 +43,23 @@ nav_order: 3
     display: none;
   }
 
-  body, p, li, h1, .navbar-brand, .post-title {
+  body, p, li, ol, ul, h2, .navbar-brand, .more-section-title {
     font-family: Georgia, 'Times New Roman', Times, serif !important;
+  }
+
+  body, p, li, ol, ul {
+    font-weight: normal !important;
+  }
+
+  .more-section-title {
+    margin: 1.5rem 0 0.75rem;
+    font-size: 1.25rem !important;
+    font-weight: bold !important;
   }
 
   .more-item,
   .more-publication-list li {
+    padding: 0.65rem 0;
     border-bottom: 1px solid var(--global-divider-color);
   }
 
@@ -58,16 +68,11 @@ nav_order: 3
     padding-left: 2rem;
   }
 
-  .more-publication-list li {
-    padding: 1.25rem 0.5rem;
-  }
-
   .more-item summary {
     display: flex;
-    align-items: center;
+    align-items: baseline;
     justify-content: space-between;
     gap: 1rem;
-    padding: 1.25rem 0.5rem;
     cursor: pointer;
     list-style: none;
   }
@@ -87,17 +92,10 @@ nav_order: 3
     color: var(--global-text-color-light);
   }
 
-  .more-item-toggle {
-    display: grid;
-    width: 3rem;
-    height: 3rem;
-    flex: 0 0 3rem;
-    place-items: center;
-  }
-
-  .more-item-toggle::before {
-    width: 0.65rem;
-    height: 0.65rem;
+  .more-item summary::after {
+    width: 0.55rem;
+    height: 0.55rem;
+    flex: 0 0 0.55rem;
     content: "";
     border-right: 2px solid currentColor;
     border-bottom: 2px solid currentColor;
@@ -105,33 +103,17 @@ nav_order: 3
     transition: transform 0.2s ease;
   }
 
-  .more-item[open] .more-item-toggle::before {
+  .more-item[open] summary::after {
     transform: translateY(0.15rem) rotate(225deg);
   }
 
-  .more-item-description {
-    padding: 0 4.5rem 1.25rem 0.5rem;
-  }
-
   .more-item p {
-    margin: 0;
-    max-width: 48rem;
-  }
-
-  @media (max-width: 576px) {
-    .more-item summary,
-    .more-publication-list li {
-      padding: 1rem 0;
-    }
-
-    .more-item-toggle {
-      width: 2.5rem;
-      height: 2.5rem;
-      flex-basis: 2.5rem;
-    }
-
-    .more-item-description {
-      padding: 0 0 1rem;
-    }
+    max-width: 52rem;
+    margin: 0.65rem 1.5rem 0.85rem 0;
+    color: var(--global-text-color-light);
+    line-height: 1.55;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
   }
 </style>
