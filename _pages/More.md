@@ -37,8 +37,6 @@ nav_order: 3
 3. [王剑程](https://isbf.sysu.edu.cn/zh-hans/teacher/288), **劳伟健**\*, [秦芳](https://riem.swufe.edu.cn/info/1231/11501.htm). 宗族文化与电商发展[J], 世界经济, 2026, 49(1): 111-142.
 4. 晏正伟, **劳伟健**\*, [韩雷](https://business.xtu.edu.cn/index.jsp?cc=cshizidw&cd=teacher&ac=view&id=100175), 宋森安. 数字金融发展能够促进家庭捐赠吗[J], 经济学报, 2025, 12(1): 77-95.
 
-<p class="more-note">* 通讯作者</p>
-
 </div>
 
 <style>
